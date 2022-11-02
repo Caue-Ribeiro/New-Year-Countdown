@@ -7,6 +7,6 @@
 -   Vanilla JS
 -   SASS
 
-Access link: [New Year Countdown]()
+Access link: [New Year Countdown](https://caue-ribeiro.github.io/New-Year-Countdown/)
 
 ![Countdown Project](/public/image/Countdown.png)
